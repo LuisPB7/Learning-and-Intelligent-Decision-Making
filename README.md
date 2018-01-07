@@ -1,4 +1,1 @@
-#Foundations-of-Programming
-# Introduction-to-Computer-Architecture
-# Introduction-to-Computer-Architecture
-# Logic-for-Programming
+# Introduction-to-Algorithms-and-Data-Structures
