@@ -1,2 +1,1 @@
-# Computer-Graphics
-# Computer-Networks
+# Databases
